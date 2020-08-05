@@ -6,3 +6,10 @@ I am happy for anyone to use this code in any way you choose, it is open source,
 
 React scripts are just the standard.
 
+## Moving the camera on desktop or other device without acelerometer support
+
+The simplest way to simulate the movement of your device is with Chrome developer tools.
+
+enable developer tools with ```ctrl + shft + i```
+
+locate the menu ![sometyhing]('/images/cdtTerminalMenuBurger.png')
